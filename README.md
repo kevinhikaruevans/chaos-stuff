@@ -2,7 +2,7 @@
 
 This is some stuff related to my undergrad thesis in physics at Washington State University. It's not my best work and I don't think it has any applications, outside of being a somewhat-interesting artifact of mathematics and physics.
 
-In this thesis, we arbitrarily calculate the Lyapunov exponent of BECs modeled by the Gross-Pitaevskii equation. The exponent is found using the $L^2$-norm of the many-body wavefunction. It seems that the GPE exhibits chaotic motion for positive coupling constants $g$, but I have no idea if this is real (or just some funky maths).
+In this thesis, we arbitrarily calculate the Lyapunov exponent of BECs modeled by the Gross-Pitaevskii equation. The exponent is found using the $L^2$-norm of the many-body wavefunction. It seems that the GPE exhibits chaotic motion for positive coupling constants $g$, but I have no idea if this is real (or just some ✨funky maths✨). It is interesting that it is linear between $\lambda$ and $g$ for $g \in \mathbb{R}^+$ (although I do not understand _why_!).
 
 ## Abstract
 The Gross-Pitaevskii equation (GPE) is a nonlinear Schrödinger equation used in modeling Bose-Einstein condensates (BECs).
