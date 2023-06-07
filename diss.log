@@ -1,0 +1,1143 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.3)  8 DEC 2021 09:38
+entering extended mode
+**./diss.tex
+(diss.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (WSUclass.cls
+Document Class: WSUclass 
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk12.clo
+File: bk12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks16
+\AP@partial=\box50
+\AP@footins=\box51
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
+ty
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\lst@mode=\count191
+\lst@gtempboxa=\box52
+\lst@token=\toks18
+\lst@length=\count192
+\lst@currlwidth=\dimen139
+\lst@column=\count193
+\lst@pos=\count194
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count195
+\lst@lineno=\count196
+\lst@maxwidth=\dimen142
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
+y
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count197
+\lst@skipnumbers=\count198
+\lst@framebox=\box53
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
+fg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforechapskip=\skip55
+\cftchapindent=\skip56
+\cftchapnumwidth=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
+\c@lofdepth=\count199
+\c@lotdepth=\count266
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\import.sty
+Package: import 2020/04/01  v 6.2
+)
+(preamble.sty
+Package: preamble 
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip83
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen143
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+) (C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks20
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks21
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks22
+\multlinegap=\skip84
+\multlinetaggap=\skip85
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating.s
+ty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count279
+\rotFPtop=\skip86
+\rotFPbot=\skip87
+\rot@float@box=\box56
+\rot@mess@toks=\toks24
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\x
+parse.sty
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
+-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box57
+))
+Package: xparse 2021-08-27 L3 Experimental document command parser
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.s
+ty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip88
+\f@nch@O@elh=\skip89
+\f@nch@O@erh=\skip90
+\f@nch@O@olh=\skip91
+\f@nch@O@orh=\skip92
+\f@nch@O@elf=\skip93
+\f@nch@O@erf=\skip94
+\f@nch@O@olf=\skip95
+\f@nch@O@orf=\skip96
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
+y
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen154
+\captionmargin@=\dimen155
+\captionwidth=\dimen156
+\caption@tempdima=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count281
+\c@continuedfloat=\count282
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-09-14 v3.0.30 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen161
+\l__siunitx_angle_marker_box=\box58
+\l__siunitx_angle_unit_box=\box59
+\l__siunitx_compound_count_int=\count283
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translations\transl
+ations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pdftex
+cmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
+ty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count285
+\l__siunitx_number_min_decimal_int=\count286
+\l__siunitx_number_min_integer_int=\count287
+\l__siunitx_number_round_precision_int=\count288
+\l__siunitx_number_group_minimum_int=\count289
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+\l__siunitx_table_tmp_box=\box60
+\l__siunitx_table_tmp_dim=\dimen162
+\l__siunitx_table_column_width_dim=\dimen163
+\l__siunitx_table_integer_box=\box61
+\l__siunitx_table_decimal_box=\box62
+\l__siunitx_table_before_box=\box63
+\l__siunitx_table_after_box=\box64
+\l__siunitx_table_before_dim=\dimen164
+\l__siunitx_table_carry_dim=\dimen165
+\l__siunitx_unit_tmp_int=\count290
+\l__siunitx_unit_position_int=\count291
+\l__siunitx_unit_total_int=\count292
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2e
+\l3keys2e.sty
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+
+Package siunitx Warning: Detected the "physics" package:
+(siunitx)                Omitting definition of \qty.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box65
+\extrarowheight=\dimen167
+\NC@list=\toks25
+\extratabsurround=\skip97
+\backup@length=\skip98
+\ar@cellbox=\box66
+))
+\@indexfile=\write3
+\openout3 = `diss.idx'.
+
+
+Writing index file diss.idx
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
+ty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
+ys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
+finekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesca
+pe.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxm
+acro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions
+.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen168
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref-l
+angpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.s
+ty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
+.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count295
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4073
+.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4073.
+Package hyperref Info: Option `plainpages' set `false' on input line 4073.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count296
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen169
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigint
+calc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen170
+\Fld@charsize=\dimen171
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring ON on input line 6094.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-ltx.s
+ty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
+f
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atveryend-ltx.
+sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\reru
+nfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uni
+quecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip99
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.
+sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count303
+\c@subtable=\count304
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
+ty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.s
+ty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count305
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count306
+\c@listtotal=\count307
+\c@listcount=\count308
+\c@liststart=\count309
+\c@liststop=\count310
+\c@citecount=\count311
+\c@citetotal=\count312
+\c@multicitecount=\count313
+\c@multicitetotal=\count314
+\c@instcount=\count315
+\c@maxnames=\count316
+\c@minnames=\count317
+\c@maxitems=\count318
+\c@minitems=\count319
+\c@citecounter=\count320
+\c@maxcitecounter=\count321
+\c@savedcitecounter=\count322
+\c@uniquelist=\count323
+\c@uniquename=\count324
+\c@refsection=\count325
+\c@refsegment=\count326
+\c@maxextratitle=\count327
+\c@maxextratitleyear=\count328
+\c@maxextraname=\count329
+\c@maxextradate=\count330
+\c@maxextraalpha=\count331
+\c@abbrvpenalty=\count332
+\c@highnamepenalty=\count333
+\c@lownamepenalty=\count334
+\c@maxparens=\count335
+\c@parenlevel=\count336
+\blx@tempcnta=\count337
+\blx@tempcntb=\count338
+\blx@tempcntc=\count339
+\blx@maxsection=\count340
+\blx@maxsegment@0=\count341
+\blx@notetype=\count342
+\blx@parenlevel@text=\count343
+\blx@parenlevel@foot=\count344
+\blx@sectionciteorder@0=\count345
+\blx@entrysetcounter=\count346
+\blx@biblioinstance=\count347
+\labelnumberwidth=\skip100
+\labelalphawidth=\skip101
+\biblabelsep=\skip102
+\bibitemsep=\skip103
+\bibnamesep=\skip104
+\bibinitsep=\skip105
+\bibparsep=\skip106
+\bibhang=\skip107
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\blx@langwohyphens=\language79
+\c@mincomprange=\count348
+\c@maxcomprange=\count349
+\c@mincompwidth=\count350
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'phys.dbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-phys\phys.
+dbx
+File: phys.dbx 2019/12/03 v1.1b biblatex database model extension
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count351
+\c@savedafterword=\count352
+\c@annotator=\count353
+\c@savedannotator=\count354
+\c@author=\count355
+\c@savedauthor=\count356
+\c@bookauthor=\count357
+\c@savedbookauthor=\count358
+\c@commentator=\count359
+\c@savedcommentator=\count360
+\c@editor=\count361
+\c@savededitor=\count362
+\c@editora=\count363
+\c@savededitora=\count364
+\c@editorb=\count365
+\c@savededitorb=\count366
+\c@editorc=\count367
+\c@savededitorc=\count368
+\c@foreword=\count369
+\c@savedforeword=\count370
+\c@holder=\count371
+\c@savedholder=\count372
+\c@introduction=\count373
+\c@savedintroduction=\count374
+\c@namea=\count375
+\c@savednamea=\count376
+\c@nameb=\count377
+\c@savednameb=\count378
+\c@namec=\count379
+\c@savednamec=\count380
+\c@translator=\count381
+\c@savedtranslator=\count382
+\c@shortauthor=\count383
+\c@savedshortauthor=\count384
+\c@shorteditor=\count385
+\c@savedshorteditor=\count386
+\c@labelname=\count387
+\c@savedlabelname=\count388
+\c@institution=\count389
+\c@savedinstitution=\count390
+\c@lista=\count391
+\c@savedlista=\count392
+\c@listb=\count393
+\c@savedlistb=\count394
+\c@listc=\count395
+\c@savedlistc=\count396
+\c@listd=\count397
+\c@savedlistd=\count398
+\c@liste=\count399
+\c@savedliste=\count400
+\c@listf=\count401
+\c@savedlistf=\count402
+\c@location=\count403
+\c@savedlocation=\count404
+\c@organization=\count405
+\c@savedorganization=\count406
+\c@origlocation=\count407
+\c@savedoriglocation=\count408
+\c@origpublisher=\count409
+\c@savedorigpublisher=\count410
+\c@publisher=\count411
+\c@savedpublisher=\count412
+\c@language=\count413
+\c@savedlanguage=\count414
+\c@origlanguage=\count415
+\c@savedoriglanguage=\count416
+\c@pageref=\count417
+\c@savedpageref=\count418
+\shorthandwidth=\skip108
+\shortjournalwidth=\skip109
+\shortserieswidth=\skip110
+\shorttitlewidth=\skip111
+\shortauthorwidth=\skip112
+\shorteditorwidth=\skip113
+\locallabelnumberwidth=\skip114
+\locallabelalphawidth=\skip115
+\localshorthandwidth=\skip116
+\localshortjournalwidth=\skip117
+\localshortserieswidth=\skip118
+\localshorttitlewidth=\skip119
+\localshortauthorwidth=\skip120
+\localshorteditorwidth=\skip121
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-compat
+.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.d
+ef
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count419
+\c@textcitetotal=\count420
+\c@textcitemaxnames=\count421
+\c@biburlbigbreakpenalty=\count422
+\c@biburlbreakpenalty=\count423
+\c@biburlnumpenalty=\count424
+\c@biburlucpenalty=\count425
+\c@biburllcpenalty=\count426
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count427
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-natbib
+.def
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'phys'...
+Package biblatex Info: ... file 'phys.bbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-phys\phys.
+bbx
+File: phys.bbx 2019/12/03 v1.1b biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\numeri
+c-comp.bbx
+File: numeric-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\numeri
+c.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\standa
+rd.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count428
+\c@bbx:relatedtotal=\count429
+))))
+Package biblatex Info: Trying to load citation style 'phys'...
+Package biblatex Info: ... file 'phys.cbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex-phys\phys.
+cbx
+File: phys.cbx 2019/12/03 v1.1b biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\numeri
+c-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count430
+\c@cbx@tempcntb=\count431
+\c@cbx@tempcntc=\count432
+\c@cbx@tempcntd=\count433
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.c
+fg
+File: biblatex.cfg 
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcount.s
+ty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
+ex
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
+tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count434
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefix.s
+ty
+Package: fcprefix 2012/09/28
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumparse
+r.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count435
+))
+\c@padzeroesN=\count436
+\fc@tmpcatcode=\count437
+\@DT@modctr=\count438
+\@ordinalctr=\count439
+\@orgargctr=\count440
+\@strctr=\count441
+\@tmpstrctr=\count442
+\@DT@loopN=\count443
+\@DT@X=\count444
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 49.
+\@quotelevel=\count445
+\@quotereset=\count446
+
+
+LaTeX Warning: Unused global option(s):
+    [bs].
+
+(diss.aux (chapter1/ch1.aux) (chapter2/ch2.aux) (chapter3/ch3.aux)
+(chapter4/ch4.aux) (chapter5/ch5.aux) (app/app.aux))
+\openout1 = `diss.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+\c@lstlisting=\count447
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count448
+\scratchdimen=\dimen172
+\scratchbox=\box67
+\nofMPsegments=\count449
+\nofMParguments=\count450
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count451
+\MPscratchDim=\dimen173
+\MPnumerator=\count452
+\makeMPintoPDFobject=\count453
+\everyMPtoPDFconversion=\toks31
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopdf-s
+ys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translations/dicts\
+translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 49.
+Package hyperref Info: Link coloring ON on input line 49.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
+y
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.s
+ty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\ge
+ttitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count454
+)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ (diss.out) (diss.out)
+\@outlinefile=\write5
+\openout5 = `diss.out'.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\englis
+h.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-08-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-case-e
+xpl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `diss.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'diss.bbl' found.
+ (diss.bbl)
+Package biblatex Info: Reference section=0 on input line 49.
+Package biblatex Info: Reference segment=0 on input line 49.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-english
+.def
+File: fc-english.def 2016/01/12
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 51.
+ [1
+
+
+
+
+
+
+
+{C:/Users/evans/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX warni
+ng (ext4): destination with the same identifier (name{page.i}) has been already
+ used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.58  \makepreliminarypages
+                            [1
+
+] [2
+
+] [3] (diss.toc [4])
+\tf@toc=\write6
+\openout6 = `diss.toc'.
+
+ [5] (diss.lol
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+.
+
+(C:\Users\evans\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+))
+\tf@lol=\write7
+\openout7 = `diss.lol'.
+
+
+[6
+
+
+] (diss.lof)
+\tf@lof=\write8
+\openout8 = `diss.lof'.
+
+ [7
+
+
+
+]
+\openout2 = `chapter1/ch1.aux'.
+
+ (chapter1/ch1.tex
+Chapter 1.
+[1
+
+
+
+
+
+] [2]) [3]
+\openout2 = `chapter2/ch2.aux'.
+
+ (chapter2/ch2.tex
+Chapter 2.
+[4
+
+
+
+
+] [5]
+<chapter2/lorenzattractor.png, id=264, 574.145pt x 341.275pt>
+File: chapter2/lorenzattractor.png Graphic file (type png)
+<use chapter2/lorenzattractor.png>
+Package pdftex.def Info: chapter2/lorenzattractor.png  used on input line 47.
+(pdftex.def)             Requested size: 328.82706pt x 195.46089pt.
+ [6]
+<chapter2/lorenzexp.png, id=274, 626.34pt x 372.39125pt>
+File: chapter2/lorenzexp.png Graphic file (type png)
+<use chapter2/lorenzexp.png>
+Package pdftex.def Info: chapter2/lorenzexp.png  used on input line 54.
+(pdftex.def)             Requested size: 328.82706pt x 195.50833pt.
+) [7] [8 <./chapter2/lorenzattractor.png> <./chapter2/lorenzexp.png>] [9]
+\openout2 = `chapter3/ch3.aux'.
+
+ (chapter3/ch3.tex
+Chapter 3.
+[10
+
+
+
+
+] [11] [12]
+<chapter3/pullbacks0.png, id=335, 496.10344pt x 359.84438pt>
+File: chapter3/pullbacks0.png Graphic file (type png)
+<use chapter3/pullbacks0.png>
+Package pdftex.def Info: chapter3/pullbacks0.png  used on input line 94.
+(pdftex.def)             Requested size: 352.31624pt x 255.55168pt.
+<chapter3/pullbacks.png, id=336, 466.74374pt x 359.84438pt>
+File: chapter3/pullbacks.png Graphic file (type png)
+<use chapter3/pullbacks.png>
+Package pdftex.def Info: chapter3/pullbacks.png  used on input line 102.
+(pdftex.def)             Requested size: 352.31624pt x 271.63417pt.
+ [13] [14 <./chapter3/pullbacks0.png> <./chapter3/pullbacks.png>]) [15]
+\openout2 = `chapter4/ch4.aux'.
+
+ (chapter4/ch4.tex
+Chapter 4.
+<chapter4/g_lam.png, id=353, 613.29124pt x 428.60126pt>
+File: chapter4/g_lam.png Graphic file (type png)
+<use chapter4/g_lam.png>
+Package pdftex.def Info: chapter4/g_lam.png  used on input line 10.
+(pdftex.def)             Requested size: 328.82706pt x 229.7997pt.
+<chapter4/g_line.png, id=354, 613.29124pt x 428.60126pt>
+File: chapter4/g_line.png Graphic file (type png)
+<use chapter4/g_line.png>
+Package pdftex.def Info: chapter4/g_line.png  used on input line 17.
+(pdftex.def)             Requested size: 328.82706pt x 229.7997pt.
+[16
+
+
+
+
+] [17 <./chapter4/g_lam.png> <./chapter4/g_line.png>]
+<chapter4/tol_lam.png, id=368, 627.34375pt x 321.2pt>
+File: chapter4/tol_lam.png Graphic file (type png)
+<use chapter4/tol_lam.png>
+Package pdftex.def Info: chapter4/tol_lam.png  used on input line 37.
+(pdftex.def)             Requested size: 469.75499pt x 240.52202pt.
+) [18] [19 <./chapter4/tol_lam.png>]
+\openout2 = `chapter5/ch5.aux'.
+
+ (chapter5/ch5.tex
+Chapter 5.
+) [20
+
+
+
+
+]
+\openout2 = `app/app.aux'.
+
+ (app/app.tex
+Chapter 6.
+[21
+
+
+
+
+]) [22] [23
+
+
+
+] [24] (diss.aux (chapter1/ch1.aux) (chapter2/ch2.aux)
+(chapter3/ch3.aux) (chapter4/ch4.aux) (chapter5/ch5.aux) (app/app.aux))
+Package rerunfilecheck Info: File `diss.out' has not changed.
+(rerunfilecheck)             Checksum: F78A6E9BD73F3CDC1A600E829A1FAD0B;4178.
+Package logreq Info: Writing requests to 'diss.run.xml'.
+\openout1 = `diss.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25414 strings out of 478927
+ 471813 string characters out of 2850605
+ 1314539 words of memory out of 3000000
+ 42757 multiletter control sequences out of 15000+600000
+ 420825 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,16n,95p,1153b,2391s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecrm0800.pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
+ec/dpi600\tcti1000.pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\evans\AppData\Local\MiKTeX
+\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\evans\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\evans\
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Us
+ers\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.
+pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecbx1440.pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecti1200.pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\evans\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\evans\AppData\Local\MiKTe
+X\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\evans\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\evans
+\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\U
+sers\evans\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200
+.pk><C:/Users/evans/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx8.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/evans/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/evans/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ev
+ans/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Users/evans/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr6.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Users/evans/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Users/evans/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on diss.pdf (32 pages, 615266 bytes).
+PDF statistics:
+ 977 PDF objects out of 1000 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
+ 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+
