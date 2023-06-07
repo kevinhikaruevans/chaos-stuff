@@ -12,8 +12,9 @@ When an initial state of the GPE with positive coupling constant is perturbed, p
 There was a proportionality found between positive Lyapunov exponents and the nonlinear coupling constant of the GPE, $g$.
 Further research can be done to analyze this proportionality and to extend this research to higher dimensions.
 
-## Conten* [My undergraduate thesis (pdf)](ThesisEvans.pdf)
+## Contents
 
+* [My undergraduate thesis (pdf)](ThesisEvans.pdf)
 * [GPE IPython notebook](gpe.ipynb)
 * [Lorenz IPython notebook](lorenz.ipynb)
 
