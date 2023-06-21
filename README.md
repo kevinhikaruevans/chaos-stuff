@@ -15,8 +15,8 @@ Further research can be done to analyze this proportionality and to extend this 
 ## Contents
 
 * [My undergraduate thesis (pdf)](ThesisEvans.pdf)
-* [GPE IPython notebook](gpe.ipynb)
-* [Lorenz IPython notebook](lorenz.ipynb)
+* [GPE IPython notebook](gpe.ipynb) (scratch-work)
+* [Lorenz IPython notebook](lorenz.ipynb) (scratch-work)
 
 ## Side notes
 
