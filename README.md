@@ -17,9 +17,10 @@ Further research can be done to analyze this proportionality and to extend this 
 * [My undergraduate thesis (pdf)](ThesisEvans.pdf)
 * [GPE IPython notebook](gpe.ipynb) (scratch-work)
 * [Lorenz IPython notebook](lorenz.ipynb) (scratch-work)
+* I'm not actually sure if these were the notebooks that I used for the paper, or just some scratch work for generating plots for the report. 
 
-## Side notes
 
-* I appreciate having the chance of conducting research as an undergrad, but did not find this topic interesting (nor motivating).
-* I dislike the LaTeX template we were using.
-* This was conducted before I had my classes in QM.
+## Notes
+
+* I dislike the LaTeX template we were using. I've looked at the templates of other schools and thought ours was very lackluster.
+* This was conducted before I had my classes in QM. So, I feel like there was a lot of this thesis that I didn't truly understand. As a result, I didn't enjoy working on this report, thought it didn't engage me, and overall disliked the topic. 
